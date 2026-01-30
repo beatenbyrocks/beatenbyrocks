@@ -1,7 +1,7 @@
 /*--- Avanquest WebEasy Page Style ---*/
 
 
-span#e12            { /* images/beatenbyrocks%20b... */
+span#e13            { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201002003.gif) no-repeat top left;
 	position        : absolute;
 	left            :  14.25pt;
@@ -9,7 +9,7 @@ span#e12            { /* images/beatenbyrocks%20b... */
 	width           : 674.25pt;
 	height          : 504.75pt;
 	}
-div#e11             {
+div#e12             {
 	font            : 12pt 'Arial', Helvetica, sans-serif;
 	text-align      : left;
 	border          :   1.50pt inset #942424;
@@ -20,7 +20,7 @@ div#e11             {
 	width           :   1.50pt;
 	height          :  22.50pt;
 	}
-div#e10             {
+div#e11             {
 	font            : 12pt 'Arial', Helvetica, sans-serif;
 	text-align      : left;
 	border          :   1.50pt inset #942424;
@@ -31,7 +31,7 @@ div#e10             {
 	width           :   1.50pt;
 	height          :  22.50pt;
 	}
-div#e9              { /* Home */
+div#e10             { /* Home */
 	padding-top     :   3.75pt;
 	position        : absolute;
 	left            : 196.50pt;
@@ -39,7 +39,7 @@ div#e9              { /* Home */
 	width           :  56.25pt;
 	height          :  15.75pt;
 	}
-div#e8              { /* Pictures */
+div#e9              { /* Pictures */
 	padding-top     :   0.75pt;
 	position        : absolute;
 	left            : 282.75pt;
@@ -47,7 +47,7 @@ div#e8              { /* Pictures */
 	width           :  56.25pt;
 	height          :  13.50pt;
 	}
-div#e7              { /* Andrew */
+div#e8              { /* Andrew */
 	padding-top     :   3.75pt;
 	position        : absolute;
 	left            : 369.00pt;
@@ -55,7 +55,7 @@ div#e7              { /* Andrew */
 	width           :  56.25pt;
 	height          :  15.75pt;
 	}
-div#e6              { /* Lee */
+div#e7              { /* Lee */
 	padding-top     :   3.75pt;
 	position        : absolute;
 	left            : 453.75pt;
@@ -63,7 +63,7 @@ div#e6              { /* Lee */
 	width           :  56.25pt;
 	height          :  15.75pt;
 	}
-h4#e5               { /* me and lee both like to ... */
+h4#e6               { /* me and lee both like to ... */
 	text-align      : left;
 	position        : absolute;
 	left            : 156.75pt;
@@ -71,21 +71,21 @@ h4#e5               { /* me and lee both like to ... */
 	width           : 368.25pt;
 	height          :  58.50pt;
 	}
-h6#e4               { /* Links */
+h6#e5               { /* Links */
 	position        : absolute;
 	left            : 185.25pt;
 	top             : 485.25pt;
 	width           :  91.50pt;
 	height          :  13.50pt;
 	}
-h6#e3               { /* {Copyright (C) 2007 Avan... */
+h6#e4               { /* {Copyright (C) 2007 Avan... */
 	position        : absolute;
 	left            : 292.50pt;
 	top             : 486.75pt;
 	width           : 374.25pt;
 	height          :  13.50pt;
 	}
-span#e2             { /* images/beatenbyrocks%20b... */
+span#e3             { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201002002.gif) no-repeat top left;
 	position        : absolute;
 	left            :  75.00pt;
@@ -93,13 +93,20 @@ span#e2             { /* images/beatenbyrocks%20b... */
 	width           : 253.50pt;
 	height          : 190.50pt;
 	}
-span#e1             { /* images/beatenbyrocks%20b... */
+span#e2             { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201002001.gif) no-repeat top left;
 	position        : absolute;
 	left            : 375.00pt;
 	top             : 259.50pt;
 	width           : 253.50pt;
 	height          : 190.50pt;
+	}
+h6#e1               { /* beatenbyrocks.com ver. 1... */
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 486.00pt;
+	width           : 290.25pt;
+	height          :  14.25pt;
 	}
 div#page            { /* Page Holder */
 	background-image: url(images/b10053.gif);

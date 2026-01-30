@@ -271,9 +271,6 @@ table.ct07 .ch07 th { /* Document Style */
 	color           : #ffffff;
 	font            : 10pt 'Arial', Helvetica, sans-serif;
 	}
-.sly                { /* Special */
-	display         : none;
-	}
 .small,small        {
 	color           : #ffffff;
 	font            : bold 10pt 'Arial Narrow', Helvetica, sans-serif;

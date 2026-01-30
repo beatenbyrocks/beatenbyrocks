@@ -21,7 +21,7 @@ function OnWeLoad()
 	IDP[1]={	x:new Array(348,411,429,446,504,485,471,380,363,348,347,347),
 				y:new Array(339,338,311,338,337,306,337,337,314,337,336,337),
 				s:8 };
-	IDP[2]=(V5)?document.getElementById('e1').style:(IE)?e1.style:document.e1;
+	IDP[2]=(V5)?document.getElementById('e2').style:(IE)?e2.style:document.e2;
 	window.setTimeout('DoRoute(2,1,0,0,1,100)',0);
 }
 

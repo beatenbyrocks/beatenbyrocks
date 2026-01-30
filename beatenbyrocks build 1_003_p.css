@@ -4,7 +4,7 @@
 .cc02               { /* Common */
 	border          :   0.00pt solid #f0f0f0;
 	}
-span#e13            { /* images/beatenbyrocks%20b... */
+span#e14            { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201003004.gif) no-repeat top left;
 	position        : absolute;
 	left            :  14.25pt;
@@ -12,7 +12,7 @@ span#e13            { /* images/beatenbyrocks%20b... */
 	width           : 674.25pt;
 	height          : 504.75pt;
 	}
-div#e12             {
+div#e13             {
 	font            : 12pt 'Arial', Helvetica, sans-serif;
 	text-align      : left;
 	border          :   1.50pt inset #942424;
@@ -23,7 +23,7 @@ div#e12             {
 	width           :   1.50pt;
 	height          :  22.50pt;
 	}
-div#e11             {
+div#e12             {
 	font            : 12pt 'Arial', Helvetica, sans-serif;
 	text-align      : left;
 	border          :   1.50pt inset #942424;
@@ -34,7 +34,7 @@ div#e11             {
 	width           :   1.50pt;
 	height          :  22.50pt;
 	}
-div#e10             { /* Home */
+div#e11             { /* Home */
 	padding-top     :   3.75pt;
 	position        : absolute;
 	left            : 196.50pt;
@@ -42,7 +42,7 @@ div#e10             { /* Home */
 	width           :  56.25pt;
 	height          :  15.75pt;
 	}
-div#e9              { /* Pictures */
+div#e10             { /* Pictures */
 	padding-top     :   0.75pt;
 	position        : absolute;
 	left            : 282.75pt;
@@ -50,7 +50,7 @@ div#e9              { /* Pictures */
 	width           :  56.25pt;
 	height          :  13.50pt;
 	}
-div#e8              { /* Andrew */
+div#e9              { /* Andrew */
 	padding-top     :   3.75pt;
 	position        : absolute;
 	left            : 369.00pt;
@@ -58,7 +58,7 @@ div#e8              { /* Andrew */
 	width           :  56.25pt;
 	height          :  15.75pt;
 	}
-div#e7              { /* Lee */
+div#e8              { /* Lee */
 	padding-top     :   3.75pt;
 	position        : absolute;
 	left            : 453.75pt;
@@ -66,28 +66,28 @@ div#e7              { /* Lee */
 	width           :  56.25pt;
 	height          :  15.75pt;
 	}
-h6#e6               { /* Links */
+h6#e7               { /* Links */
 	position        : absolute;
 	left            : 185.25pt;
 	top             : 485.25pt;
 	width           :  91.50pt;
 	height          :  13.50pt;
 	}
-h6#e5               { /* {Copyright (C) 2007 Avan... */
+h6#e6               { /* {Copyright (C) 2007 Avan... */
 	position        : absolute;
 	left            : 292.50pt;
 	top             : 486.75pt;
 	width           : 374.25pt;
 	height          :  13.50pt;
 	}
-div#e4              {
+div#e5              {
 	position        : absolute;
 	left            : 600.00pt;
 	top             : 414.00pt;
 	width           :  72.75pt;
 	height          :  54.75pt;
 	}
-span#e3             { /* images/beatenbyrocks%20b... */
+span#e4             { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201003003.gif) no-repeat top left;
 	position        : absolute;
 	left            :  54.00pt;
@@ -95,7 +95,7 @@ span#e3             { /* images/beatenbyrocks%20b... */
 	width           : 341.25pt;
 	height          : 227.25pt;
 	}
-span#e2             { /* images/beatenbyrocks%20b... */
+span#e3             { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201003002.gif) no-repeat top left;
 	position        : absolute;
 	left            : 427.50pt;
@@ -103,13 +103,20 @@ span#e2             { /* images/beatenbyrocks%20b... */
 	width           : 210.75pt;
 	height          : 209.25pt;
 	}
-span#e1             { /* images/beatenbyrocks%20b... */
+span#e2             { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201003001.gif) no-repeat top left;
 	position        : absolute;
 	left            : 363.75pt;
 	top             : 381.00pt;
 	width           : 127.50pt;
 	height          :  58.50pt;
+	}
+h6#e1               { /* beatenbyrocks.com ver. 1... */
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 486.00pt;
+	width           : 290.25pt;
+	height          :  14.25pt;
 	}
 div#page            { /* Page Holder */
 	background-image: url(images/b10053.gif);

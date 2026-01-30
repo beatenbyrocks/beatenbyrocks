@@ -4,7 +4,7 @@
 .cc03               { /* Common */
 	border          :   0.00pt solid #f0f0f0;
 	}
-span#e14            { /* images/beatenbyrocks%20b... */
+span#e15            { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201004006.gif) no-repeat top left;
 	position        : absolute;
 	left            :  14.25pt;
@@ -12,7 +12,7 @@ span#e14            { /* images/beatenbyrocks%20b... */
 	width           : 674.25pt;
 	height          : 504.75pt;
 	}
-div#e13             {
+div#e14             {
 	font            : 12pt 'Arial', Helvetica, sans-serif;
 	text-align      : left;
 	border          :   1.50pt inset #942424;
@@ -23,7 +23,7 @@ div#e13             {
 	width           :   1.50pt;
 	height          :  22.50pt;
 	}
-div#e12             {
+div#e13             {
 	font            : 12pt 'Arial', Helvetica, sans-serif;
 	text-align      : left;
 	border          :   1.50pt inset #942424;
@@ -34,7 +34,7 @@ div#e12             {
 	width           :   1.50pt;
 	height          :  22.50pt;
 	}
-div#e11             { /* Home */
+div#e12             { /* Home */
 	padding-top     :   3.75pt;
 	position        : absolute;
 	left            : 196.50pt;
@@ -42,7 +42,7 @@ div#e11             { /* Home */
 	width           :  56.25pt;
 	height          :  15.75pt;
 	}
-div#e10             { /* Pictures */
+div#e11             { /* Pictures */
 	padding-top     :   0.75pt;
 	position        : absolute;
 	left            : 282.75pt;
@@ -50,7 +50,7 @@ div#e10             { /* Pictures */
 	width           :  56.25pt;
 	height          :  13.50pt;
 	}
-div#e9              { /* Andrew */
+div#e10             { /* Andrew */
 	padding-top     :   3.75pt;
 	position        : absolute;
 	left            : 369.00pt;
@@ -58,7 +58,7 @@ div#e9              { /* Andrew */
 	width           :  56.25pt;
 	height          :  15.75pt;
 	}
-div#e8              { /* Lee */
+div#e9              { /* Lee */
 	padding-top     :   3.75pt;
 	position        : absolute;
 	left            : 453.75pt;
@@ -66,21 +66,21 @@ div#e8              { /* Lee */
 	width           :  56.25pt;
 	height          :  15.75pt;
 	}
-h6#e7               { /* Links */
+h6#e8               { /* Links */
 	position        : absolute;
 	left            : 185.25pt;
 	top             : 485.25pt;
 	width           :  91.50pt;
 	height          :  13.50pt;
 	}
-h6#e6               { /* {Copyright (C) 2007 Avan... */
+h6#e7               { /* {Copyright (C) 2007 Avan... */
 	position        : absolute;
 	left            : 292.50pt;
 	top             : 486.75pt;
 	width           : 374.25pt;
 	height          :  13.50pt;
 	}
-span#e5             { /* images/beatenbyrocks%20b... */
+span#e6             { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201004005.gif) no-repeat top left;
 	position        : absolute;
 	left            :  54.00pt;
@@ -88,7 +88,7 @@ span#e5             { /* images/beatenbyrocks%20b... */
 	width           : 341.25pt;
 	height          : 227.25pt;
 	}
-span#e4             { /* images/beatenbyrocks%20b... */
+span#e5             { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201004004.gif) no-repeat top left;
 	position        : absolute;
 	left            : 427.50pt;
@@ -96,7 +96,7 @@ span#e4             { /* images/beatenbyrocks%20b... */
 	width           : 211.50pt;
 	height          : 209.25pt;
 	}
-span#e3             { /* images/beatenbyrocks%20b... */
+span#e4             { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201004003.gif) no-repeat top left;
 	position        : absolute;
 	left            : 524.25pt;
@@ -104,7 +104,7 @@ span#e3             { /* images/beatenbyrocks%20b... */
 	width           : 132.75pt;
 	height          :  66.75pt;
 	}
-span#e2             { /* images/beatenbyrocks%20b... */
+span#e3             { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201004002.gif) no-repeat top left;
 	position        : absolute;
 	left            :  15.75pt;
@@ -112,13 +112,20 @@ span#e2             { /* images/beatenbyrocks%20b... */
 	width           : 105.00pt;
 	height          : 169.50pt;
 	}
-span#e1             { /* images/beatenbyrocks%20b... */
+span#e2             { /* images/beatenbyrocks%20b... */
 	background      : transparent url(images/beatenbyrocks%20build%201004001.gif) no-repeat top left;
 	position        : absolute;
 	left            : 346.50pt;
 	top             :-162.00pt;
 	width           : 131.25pt;
 	height          : 162.00pt;
+	}
+h6#e1               { /* beatenbyrocks.com ver. 1... */
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 486.00pt;
+	width           : 290.25pt;
+	height          :  14.25pt;
 	}
 div#page            { /* Page Holder */
 	background-image: url(images/b10053.gif);
