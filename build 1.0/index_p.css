@@ -1,0 +1,137 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt solid #f0f0f0;
+	}
+span#e14            { /* images/beatenbyrocks%20b... */
+	background      : transparent url(images/beatenbyrocks%20build%201001006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  14.25pt;
+	top             :   6.00pt;
+	width           : 674.25pt;
+	height          : 504.75pt;
+	}
+div#e13             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	border          :   1.50pt inset #942424;
+	background-color: #d5ccbb;
+	position        : absolute;
+	left            : 180.00pt;
+	top             : 477.00pt;
+	width           :   1.50pt;
+	height          :  22.50pt;
+	}
+div#e12             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	border          :   1.50pt inset #942424;
+	background-color: #d5ccbb;
+	position        : absolute;
+	left            : 277.50pt;
+	top             : 477.75pt;
+	width           :   1.50pt;
+	height          :  22.50pt;
+	}
+div#e11             { /* Home */
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            : 196.50pt;
+	top             : 107.25pt;
+	width           :  56.25pt;
+	height          :  15.75pt;
+	}
+div#e10             { /* Pictures */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            : 282.75pt;
+	top             : 109.50pt;
+	width           :  56.25pt;
+	height          :  13.50pt;
+	}
+div#e9              { /* Andrew */
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            : 369.00pt;
+	top             : 107.25pt;
+	width           :  56.25pt;
+	height          :  15.75pt;
+	}
+div#e8              { /* Lee */
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            : 453.75pt;
+	top             : 107.25pt;
+	width           :  56.25pt;
+	height          :  15.75pt;
+	}
+h6#e7               { /* Links */
+	position        : absolute;
+	left            : 185.25pt;
+	top             : 485.25pt;
+	width           :  91.50pt;
+	height          :  13.50pt;
+	}
+h6#e6               { /* {Copyright (C) 2007 Avan... */
+	position        : absolute;
+	left            : 292.50pt;
+	top             : 486.75pt;
+	width           : 374.25pt;
+	height          :  13.50pt;
+	}
+span#e5             { /* images/beatenbyrocks%20b... */
+	background      : transparent url(images/beatenbyrocks%20build%201001005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  95.25pt;
+	top             : 216.75pt;
+	width           : 250.50pt;
+	height          : 188.25pt;
+	}
+div#e4              { /* learn our dance!!\ */
+	background      : transparent url(images/beatenbyrocks%20build%201001004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 129.00pt;
+	top             : 186.00pt;
+	width           : 193.50pt;
+	height          :  81.00pt;
+	}
+img#e3              { /* images/beatenbyrocks%20b... */
+	position        : absolute;
+	left            : 390.00pt;
+	top             : 342.00pt;
+	width           : 187.50pt;
+	height          :  66.00pt;
+	}
+img#e2              { /* images/beatenbyrocks%20b... */
+	position        : absolute;
+	left            : 384.00pt;
+	top             : 245.25pt;
+	width           : 186.75pt;
+	height          :  99.75pt;
+	}
+div#e1              { /* subscribe to us on YouTu... */
+	background      : transparent url(images/beatenbyrocks%20build%201001001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 388.50pt;
+	top             : 189.75pt;
+	width           : 193.50pt;
+	height          :  81.00pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(images/b10053.gif);
+	position        : relative;
+	width           : 702.00pt;
+	height          : 535.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
